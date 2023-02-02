@@ -6,6 +6,7 @@ public class TestForGithubJustIgnore {
 		// TODO Auto-generated method stub
 		System.out.println("Test Test Test Ignore And delete later");
 		System.out.println("Test new 2");
+		System.out.println("Test new 3 for pull command");
 	}
 
 }
